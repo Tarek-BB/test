@@ -4,5 +4,3 @@ initial commit
 feature 2 added
 
 feature 1 added
-
-feature 3 addded
